@@ -14,10 +14,10 @@ def get_requirements(file_path:str)->List[str]:
         return requirements
 
 setup(
-    name='DiamondPricePrediction',
+    name='Concrete_strength_prediction',
     version='0.0.1',
-    author='PavanTej',
-    author_email='pavantejappt082001@gmail.com',
+    author='Rahul_Shashank',
+    author_email='Rahulshashank21@gmail.com',
     install_requires=get_requirements('requirements.txt'),
     packages=find_packages()
 )

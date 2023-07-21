@@ -1,0 +1,5 @@
+[ 2023-07-21 17:27:05,098 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-07-21 17:27:05,099 ] 187 werkzeug - INFO -  * Debugger PIN: 275-095-553
+[ 2023-07-21 17:27:31,607 ] 187 werkzeug - INFO - 172.18.0.2 - - [21/Jul/2023 17:27:31] "GET / HTTP/1.1" 200 -
+[ 2023-07-21 17:27:32,013 ] 187 werkzeug - INFO - 172.18.0.2 - - [21/Jul/2023 17:27:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-07-21 17:27:41,310 ] 187 werkzeug - INFO - 172.18.0.2 - - [21/Jul/2023 17:27:41] "GET /predict HTTP/1.1" 200 -
